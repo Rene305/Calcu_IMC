@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "com.example.imc.app-merged_res-28:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.imc.app-main-30:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.imc.app-merged_res-28:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.imc.app-main-30:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.imc.app-merged_res-28:/xml_backup_rules.xml.flat",
+        "source": "com.example.imc.app-main-30:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.imc.app-merged_res-28:/layout_activity_main.xml.flat",
+        "source": "com.example.imc.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.imc.app-merged_res-28:/drawable_ic_suma.xml.flat",
+        "source": "com.example.imc.app-main-30:/drawable/ic_suma.xml"
+    },
+    {
+        "merged": "com.example.imc.app-merged_res-28:/drawable_honguitos2.png.flat",
+        "source": "com.example.imc.app-main-30:/drawable/honguitos2.png"
+    },
+    {
+        "merged": "com.example.imc.app-merged_res-28:/layout_activity_imc2.xml.flat",
+        "source": "com.example.imc.app-main-30:/layout/activity_imc2.xml"
+    },
+    {
+        "merged": "com.example.imc.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.imc.app-main-30:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.imc.app-merged_res-28:/drawable_ic_resta.xml.flat",
+        "source": "com.example.imc.app-main-30:/drawable/ic_resta.xml"
+    },
+    {
+        "merged": "com.example.imc.app-merged_res-28:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.imc.app-main-30:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.imc.app-merged_res-28:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.imc.app-main-30:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.imc.app-merged_res-28:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.imc.app-main-30:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.imc.app-merged_res-28:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.imc.app-main-30:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.imc.app-merged_res-28:/layout_activity_layaut_liner2.xml.flat",
+        "source": "com.example.imc.app-main-30:/layout/activity_layaut_liner2.xml"
+    },
+    {
+        "merged": "com.example.imc.app-merged_res-28:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.imc.app-main-30:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.imc.app-merged_res-28:/layout_activity_layauts.xml.flat",
+        "source": "com.example.imc.app-main-30:/layout/activity_layauts.xml"
+    },
+    {
+        "merged": "com.example.imc.app-merged_res-28:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.imc.app-main-30:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.imc.app-merged_res-28:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.imc.app-main-30:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.imc.app-merged_res-28:/drawable_fondo_tecno.webp.flat",
+        "source": "com.example.imc.app-main-30:/drawable/fondo_tecno.webp"
+    },
+    {
+        "merged": "com.example.imc.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.imc.app-main-30:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.imc.app-merged_res-28:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.imc.app-main-30:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.imc.app-merged_res-28:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.imc.app-main-30:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.imc.app-merged_res-28:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.imc.app-main-30:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.imc.app-merged_res-28:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.imc.app-main-30:/drawable-v24/ic_launcher_foreground.xml"
+    }
+]

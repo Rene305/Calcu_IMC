@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blue">#0BAB90</color>
+    <color name="cafe">#CE4E4A22</color>
+    <color name="fondo_app">#0E0B20</color>
+    <color name="fondo_btn">#FF6200EE</color>
+    <color name="fondo_componente">#1D1E33</color>
+    <color name="green">#43AB0B</color>
+    <color name="morado">#9284138B</color>
+    <color name="pastel">#92CFBDF2</color>
+    <color name="pastel1">#C9B18EF7</color>
+    <color name="pastel2">#FCC9E0</color>
+    <color name="pastel3">#A6FF959F</color>
+    <color name="red">#AB0B0B</color>
+    <color name="titulo">#D4EF2828</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#E6D40A</color>
+    <string name="app_name">IMC</string>
+    <style name="Base.Theme.IMC" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.IMC" parent="Base.Theme.IMC"/>
+</resources>
